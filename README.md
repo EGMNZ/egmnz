@@ -8,7 +8,7 @@
 
 ### 📷 Computer Vision Projects
 
-- 
+- [**Python:** CNN Model and Image Segmentation for Dogs and Cats](https://github.com/EGMNZ/Cat-Dog-Image-Classifier-with-Segmentation)
 - 
 - 
 
