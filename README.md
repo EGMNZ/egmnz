@@ -2,9 +2,10 @@
 
 ### 👨🏻‍🎓 About
 
-- Graduated with a Master of Science in Applied Artificial Intelligence.
-- Working on Machine Learning projects.
-- Transitioning from military service.
+- MS in Applied Artificial Intelligence.
+- Working on Machine Learning & Deep Learning projects with increasing complexity to gain proficiency.
+- Interested in Data Science projects & ideas.
+- Transitioning from military service in 2024.
 
 ### 📷 Computer Vision Projects
 
