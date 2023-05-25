@@ -3,7 +3,7 @@
 ### 👨🏻‍🎓 About
 
 - MS in Applied Artificial Intelligence.
-- Working on Machine Learning & Deep Learning projects with increasing complexity to gain proficiency.
+- Working on Machine Learning, Deep Learning, & data analytics projects with increasing complexity to gain proficiency.
 - Interested in Data Science projects & ideas.
 - Transitioning from military service in 2024.
 
