@@ -12,12 +12,13 @@
 - [**Python:** CNN Model and Image Segmentation for Dogs and Cats](https://github.com/EGMNZ/Cat-Dog-Image-Classifier-with-Segmentation)
 - [**Python:** Blackjack Card Counting with Classification and GUI](https://github.com/EGMNZ/Blackjack-card-counting-with-classification)
 
-### Natural Language Processing (NLP) Projects
+### 🔠 Natural Language Processing (NLP) Projects
 
 - [**Python:** Using Valence Aware Dictionary for Sentiment Reasoner (VADER) for Sentiment Analysis](https://github.com/EGMNZ/VADER-sentimental-analysis)
 
 ### 📊 Tableau
 
+- [**Tableau:** Exploring US Vehicle Fatalities and Creating a Simple Dashboard](https://github.com/EGMNZ/Tableau-Viz-Vehicle-Fatalities)
 - [My Tableau](https://public.tableau.com/app/profile/edgar.munoz7941)
 
 
