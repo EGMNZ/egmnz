@@ -11,7 +11,7 @@
 ### 🔤 Natural Language Processing (NLP)
 - [Sentimental Analysis using VADER](https://github.com/EGMNZ/VADER-sentimental-analysis)
 
-### 📈 Machine Learning
+### 💻 Machine Learning
 - Predicting Student Grades (Pending)
 
 ### 📊 Tableau
