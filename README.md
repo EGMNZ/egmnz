@@ -12,6 +12,7 @@
 - [Sentimental Analysis using VADER](https://github.com/EGMNZ/VADER-sentimental-analysis)
 
 ### 💻 Machine Learning
+- [Streamlit App for Classifying Fetal Health](https://github.com/EGMNZ/Random-Forest-Fetal-Health-Classification)
 - Predicting Student Grades (Pending)
 
 ### 📊 Tableau
