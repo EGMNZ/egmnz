@@ -1,5 +1,5 @@
 ### 👨🏻‍🎓About Me
-- Graduate Student in Data Science at UC Berkeley (expected graduation: 2025)
+- Graduate Student in Data Science at UC Berkeley (expected graduation: 2025).
 - MS in Artificial Intelligence.
 - Working on predictive Machine Learning (ML) projects.
 - Looking forward to transitioning from Active Military service into the ML/Data profession.
